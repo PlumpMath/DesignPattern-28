@@ -17,7 +17,5 @@ public class Test {
 		waiter.setOrder(bakeChildrenWingCommand);
 		waiter.notifyBarbecuer();
 		
-		
 	}
-
 }
